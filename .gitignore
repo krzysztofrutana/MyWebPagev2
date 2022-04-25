@@ -1,0 +1,7 @@
+﻿MyWebPageV2.Data/bin
+.vs
+MyWebPageV2.Data/obj
+MyWebPageV2.Migrations/bin
+MyWebPageV2.Migrations/obj
+MyWebPageV2.Web/bin
+MyWebPageV2.Web/obj
